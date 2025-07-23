@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "s3bucket" {
-    bucket = "abhignabucket1234"
+    bucket = "abhignabucket@1234"
     acl    = "private"
  
     tags = {
